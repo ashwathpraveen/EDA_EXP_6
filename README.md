@@ -27,10 +27,7 @@ To perform complete Exploratory Data Analysis (EDA) on the Wine Quality dataset,
 #### Step 8 - Evaluate the model using accuracy and confusion matrix, and detect outliers using boxplots.
 
 ## Program:
-```
-Name : Bharathganesh S
-Reg No : 212222230022
-```
+
 ```py
 import seaborn as sns
 import matplotlib.pyplot as plt
