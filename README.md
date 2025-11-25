@@ -1,7 +1,7 @@
 # EDA_EXP_6
 
 ```
-Name : SHREEDHAR KUMAR KJ
+Name : SHREEDHAR KUMAR K.J
 Reg No : 212224230265
 ```
 **Aim**
