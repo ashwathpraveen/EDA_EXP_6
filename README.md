@@ -1,8 +1,8 @@
 # EDA_EXP_6
 
 ```
-Name : SHREEDHAR KUMAR K.J
-Reg No : 212224230265
+Name : Ashwath p
+Reg No : 212224220012
 ```
 **Aim**
 
